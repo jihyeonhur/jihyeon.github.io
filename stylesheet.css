@@ -144,3 +144,6 @@ span.highlight {
 a:has(.papertitle) {
   color: black;
 }
+a:has(.papertitle):hover {
+  color: #f09228;
+}
